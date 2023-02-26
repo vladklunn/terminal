@@ -1,0 +1,6 @@
+cd 
+mkdir
+ls -l
+[D[A[C[C[C[C[Ca
+vim
+pwd
