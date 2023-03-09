@@ -4,3 +4,11 @@ Iren
 Vika
 Valya
 Ire 
+<<<<<<< HEAD
+=======
+Andre
+Ignat
+Aleksiy
+Olof
+Eva
+>>>>>>> 959c0e0a1ccfd4263143792f382db6eff8adb61a
